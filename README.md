@@ -39,3 +39,10 @@ int main() {
     guessTheNumber();
     return 0;
 }
+
+#output - 
+#I've picked a number between 1 and 100. Try to guess it!
+#Enter your guess: 30
+#Congratulations! You guessed the correct number
+
+#problem 2 - Simple Calculator
